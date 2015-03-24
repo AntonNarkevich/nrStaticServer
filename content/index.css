@@ -1,0 +1,14 @@
+.wrap {
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    -moz-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+    -o-transform: rotate(30deg);
+    -ms-transform: rotate(30deg);
+    transform: rotate(30deg);
+    border: 1px solid darkred;
+    display: inline-block;
+}

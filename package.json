@@ -1,0 +1,23 @@
+{
+  "name": "staticServer",
+  "version": "1.0.0",
+  "description": "Serves static files",
+  "main": "staticServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node staticServer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntonNarkevich/nrStaticServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonNarkevich/nrStaticServer/issues"
+  },
+  "homepage": "https://github.com/AntonNarkevich/nrStaticServer",
+  "dependencies": {
+    "mime": "^1.3.4"
+  }
+}
